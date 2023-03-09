@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T20:17:43.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HD6rddBaboe6AHAQdoWu" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T20:17:56.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WmZgOmvJHJnDv-LJNvXh" version="21.0.6" type="github">
   <diagram name="Страница 1" id="3Vng-rMggC7NnyUmlmvF">
     <mxGraphModel dx="796" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="700" y="910" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GLsun_U-bw1sLAjE6OrZ-1" value="Подбор заявок по категорям" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="585" width="70" height="80" as="geometry" />
+          <mxGeometry x="490" y="570" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GLsun_U-bw1sLAjE6OrZ-5" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.63;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OgM1AhuyftIS4sDw0Dng-30">
           <mxGeometry width="160" relative="1" as="geometry">
