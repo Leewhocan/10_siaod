@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T20:17:56.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WmZgOmvJHJnDv-LJNvXh" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T20:22:15.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="m4wIUDD2NKV-yBlX7khI" version="21.0.6" type="github">
   <diagram name="Страница 1" id="3Vng-rMggC7NnyUmlmvF">
-    <mxGraphModel dx="796" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OgM1AhuyftIS4sDw0Dng-38" value="Менджер кадрового отедал" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="910" width="30" height="60" as="geometry" />
+          <mxGeometry x="710" y="880" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GLsun_U-bw1sLAjE6OrZ-1" value="Подбор заявок по категорям" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="70" height="80" as="geometry" />
@@ -107,6 +107,18 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="307" y="729" as="sourcePoint" />
             <mxPoint x="440" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GLsun_U-bw1sLAjE6OrZ-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.99;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OgM1AhuyftIS4sDw0Dng-30" target="GLsun_U-bw1sLAjE6OrZ-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="630" as="sourcePoint" />
+            <mxPoint x="590" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GLsun_U-bw1sLAjE6OrZ-15" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.593;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GLsun_U-bw1sLAjE6OrZ-1" target="OgM1AhuyftIS4sDw0Dng-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="714" as="sourcePoint" />
+            <mxPoint x="505" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
