@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T00:57:36.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0Ljfsr56FY2m77_lOFZQ" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T01:00:49.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="alG07ydcjgAEGopAtock" version="21.5.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="779" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,15 +56,15 @@
           <mxGeometry x="60" y="220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hHtsJqwN4T3GH6VucC0o-25" value="Оформление заказа" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#050000;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="120" height="50" as="geometry" />
+          <mxGeometry x="60" y="310" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hHtsJqwN4T3GH6VucC0o-26" value="Сохранение пользователя в бд" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#050000;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hHtsJqwN4T3GH6VucC0o-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#080000;rounded=0;exitX=0.501;exitY=0.743;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="hHtsJqwN4T3GH6VucC0o-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#080000;rounded=0;exitX=0.501;exitY=0.743;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hHtsJqwN4T3GH6VucC0o-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="230" as="targetPoint" />
-            <mxPoint x="130" y="197" as="sourcePoint" />
+            <mxPoint x="119.77" y="303" as="targetPoint" />
+            <mxPoint x="119.77" y="270" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
